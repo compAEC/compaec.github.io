@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Hello News!"
-date:   2019-08-01 16:39:30 +1000
-categories: news
----
-
-First news 
-
