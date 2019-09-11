@@ -5,7 +5,7 @@ date:   2019-08-09 16:39:30 +1000
 categories: event
 ---
 
-### [Reserve your tickets on Eventbrite](https://www.eventbrite.com.au/e/computational-aec-melbourne-august-2019-tickets-68229958643)
+<iframe width="740" height="415" src="https://www.youtube.com/embed/KsqzM35CtzA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 `Thursday, 29 August 2019`
 6:30 pm – 8:30 pm AEST

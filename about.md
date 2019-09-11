@@ -11,6 +11,4 @@ We're going to have two or three 20-minute presentations about computational met
 
 There will also be industry updates, one-on-one QA sessions with the speakers and opportunities for casual networking + pizzas and drinks. 
 
-Reserve your tickets before they're gone. Spaces are limited.
-
-Get in touch at [ComputationalAECMel@gmail.com](computationalaecmel@gmail.com)
+This group is co-founded by [Giovanni Brogiolo](https://github.com/giobel){:target="_blank"} & [Hoss Zamani](https://github.com/HossZamani){:target="_blank"}. If you're passionate about computational design and willing to join this group please get in touch at [ComputationalAECMel@gmail.com](computationalaecmel@gmail.com)
