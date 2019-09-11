@@ -30,3 +30,9 @@ Mehrnoush is a lecturer of Design(Architecture) program in the Faculty of Health
 - Industry updates
 - One-on-one QA sessions
 - Pizzas, drinks and networking
+
+![Photo1](..\..\..\..\images\events\DSC_0009.jpg)
+![Photo2](..\..\..\..\images\events\DSC_0014.jpg)
+![Photo3](..\..\..\..\images\events\DSC_0017.jpg)
+
+<img src="..\..\..\..\images\events\DSC_0018.jpg" height="450"/>
