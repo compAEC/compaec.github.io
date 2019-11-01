@@ -32,15 +32,18 @@
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <style>
-  * {
-    box-sizing: border-box;
-  }
+
   
+  .row{
+    display: table;
+  margin-right: auto;
+  margin-left: auto;
+
+  }
   /* Create two equal columns that floats next to each other */
   .column {
     float: left;
-    width: 50%;
-    padding: 5;
+    width: 340px;
     text-align: left;
   }
   
@@ -54,6 +57,7 @@
   .post-news { 
     font-size:90%; 
     margin-left: 0px;
+    margin-right: 0px;;
   }
   
   .post-event { 
@@ -63,6 +67,7 @@
 
   .post-list-news {
     margin-left: 0;
+    margin-right: 5px;
     list-style: none; 
     overflow-y: scroll;
     scrollbar-width: none; /* Firefox */
@@ -95,8 +100,9 @@
 <hr />
 
 <br>
+</div>
 
-<div class="row">
+<div class="row" >
   <div class="column">
 
       <h2>
@@ -109,7 +115,7 @@
             29 August 2019
           </a>
         </h3></li></ul></div>
-  <div class="column" style="background-color:rgb(255, 255, 255);">
+  <div class="column">
     <h2>
       <a href="https://compaec.github.io/news/" target="_top" style="background-color: white; color: orange;"> News</a></h2><ul class = post-list-news><li><a class="post-news" href="/news/2019/09/08/forgesurvey.html" >
             Autodesk Revit/Forge API survey
@@ -142,8 +148,6 @@
             Speckle 3d Viewer
           </a>
           <span class="post-meta">Jun 5, 2019</span></li></ul></div>
-
-</div>
 
 </div>
 
