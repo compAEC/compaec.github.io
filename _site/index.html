@@ -31,7 +31,62 @@
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="home"><p align="center">
+        <style>
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 50%;
+    padding: 5;
+    text-align: left;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  .post-news { 
+    font-size:90%; 
+    margin-left: 0px;
+  }
+  
+  .post-event { 
+    list-style: none; 
+    margin-left: 0px;
+  }
+
+  .post-list-news {
+    margin-left: 0;
+    list-style: none; 
+    overflow-y: scroll;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;  /* IE 10+ */
+  }
+
+  .post-list-news::-webkit-scrollbar { /* WebKit */
+    width: 2px;
+    height: 0;
+    background-color: #F5F5F5;
+
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgb(155, 155, 155);
+}
+
+  .post-list > li {
+    margin-bottom: 30px; 
+  }
+
+  </style>
+
+<div class="home"><p align="center">
     <img src="../MCDGlogoTrans.PNG" alt="logo" width="300" /> 
     <p style="text-align:center;">We are an open group of people passionate about Computational Design and based in Melbourne. <br />Get in touch at <a href="mailto:computationalaecmel@gmail.com?Subject=Hey%20guys" target="_top">computationalAECMel@gmail.com</a>
     or <a href="https://compaec.github.io/speaker/" target="_top">join us</a>.</p>
@@ -39,17 +94,58 @@
 
 <hr />
 
-<br><ul class="post-list"><li><span class="post-meta">Oct 31, 2019</span>
-      <h3>
-        <a class="post-link" href="/event/2019/10/31/EventII.html">
-          14 November 2019 | 2nd meeting
-        </a>
-      </h3></li><li><span class="post-meta">Aug 9, 2019</span>
-      <h3>
-        <a class="post-link" href="/event/2019/08/09/EventI.html">
-          29 August 2019 | 1st meeting
-        </a>
-      </h3></li></ul></div>
+<br>
+
+<div class="row">
+  <div class="column">
+
+      <h2>
+          <a href="https://compaec.github.io/meetings/" target="_top" style="background-color: white; color: orange;"> Events</a></h2><ul class="post-event"><li><h3>
+          <a class="post-link" href="/event/2019/10/31/EventII.html">
+            14 November 2019
+          </a>
+        </h3></li><li><h3>
+          <a class="post-link" href="/event/2019/08/09/EventI.html">
+            29 August 2019
+          </a>
+        </h3></li></ul></div>
+  <div class="column" style="background-color:rgb(255, 255, 255);">
+    <h2>
+      <a href="https://compaec.github.io/news/" target="_top" style="background-color: white; color: orange;"> News</a></h2><ul class = post-list-news><li><a class="post-news" href="/news/2019/09/08/forgesurvey.html" >
+            Autodesk Revit/Forge API survey
+          </a>
+          <span class="post-meta">Sep 8, 2019</span></li><li><a class="post-news" href="/news/2019/09/08/topologic.html" >
+            Topologic announced release of TopologicDynamo and TopologicNET v. 0.8.6.
+          </a>
+          <span class="post-meta">Sep 8, 2019</span></li><li><a class="post-news" href="/news/2019/08/23/unswhackathon.html" >
+            UNSW &amp; Design Futures Council announced AEC Hackathon
+          </a>
+          <span class="post-meta">Aug 23, 2019</span></li><li><a class="post-news" href="/news/2019/08/19/dynamonewrelease.html" >
+            Dynamo Core 2.3 is released
+          </a>
+          <span class="post-meta">Aug 19, 2019</span></li><li><a class="post-news" href="/news/2019/08/18/hmcladybug.html" >
+            Ladybug tools dashboard tutorial
+          </a>
+          <span class="post-meta">Aug 18, 2019</span></li><li><a class="post-news" href="/news/2019/08/16/nxtblgevent.html" >
+            AEC Magazine published recordings of NXT BLD 2019 conference
+          </a>
+          <span class="post-meta">Aug 16, 2019</span></li><li><a class="post-news" href="/news/2019/06/21/giraffe.html" >
+            Giraffe app is launched
+          </a>
+          <span class="post-meta">Jun 21, 2019</span></li><li><a class="post-news" href="/news/2019/06/19/pmonkeyUTS.html" >
+            ASCII chat roulette
+          </a>
+          <span class="post-meta">Jun 19, 2019</span></li><li><a class="post-news" href="/news/2019/06/10/prismapp.html" >
+            Prism app is launched
+          </a>
+          <span class="post-meta">Jun 10, 2019</span></li><li><a class="post-news" href="/news/2019/06/05/speckle3dviewer.html" >
+            Speckle 3d Viewer
+          </a>
+          <span class="post-meta">Jun 5, 2019</span></li></ul></div>
+
+</div>
+
+</div>
 
       </div>
     </main><footer class="site-footer" role="banner" >

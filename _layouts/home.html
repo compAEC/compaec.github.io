@@ -2,6 +2,61 @@
 layout: default
 ---
 
+<style>
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 50%;
+    padding: 5;
+    text-align: left;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  .post-news { 
+    font-size:90%; 
+    margin-left: 0px;
+  }
+  
+  .post-event { 
+    list-style: none; 
+    margin-left: 0px;
+  }
+
+  .post-list-news {
+    margin-left: 0;
+    list-style: none; 
+    overflow-y: scroll;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;  /* IE 10+ */
+  }
+
+  .post-list-news::-webkit-scrollbar { /* WebKit */
+    width: 2px;
+    height: 0;
+    background-color: #F5F5F5;
+
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgb(155, 155, 155);
+}
+
+  .post-list > li {
+    margin-bottom: 30px; 
+  }
+
+  </style>
+
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
@@ -9,25 +64,56 @@ layout: default
 
   {{ content }}
 <br>
-  {%- if site.posts.size > 0 -%}
-  <ul class="post-list">
-    {%- for post in site.categories.event -%}
-    <li>
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h3>
-      {%- if site.show_excerpts -%}
-        {{ post.excerpt }}
-      {%- endif -%}
-    </li>
-    {%- endfor -%}
-  </ul>
 
+<div class="row">
+  <div class="column">
 
-{%- endif -%}
+      <h2>
+          <a href="https://compaec.github.io/meetings/" target="_top" style="background-color: white; color: orange;"> Events</a></h2>
+
+    {%- if site.posts.size > 0 -%}
+    <ul class="post-event">
+      {%- for post in site.categories.event -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+  </div>
+  <div class="column" style="background-color:rgb(255, 255, 255);">
+    <h2>
+      <a href="https://compaec.github.io/news/" target="_top" style="background-color: white; color: orange;"> News</a></h2>
+    {%- if site.posts.size > 0 -%}
+    
+    <ul class = post-list-news>
+      {%- for post in site.categories.news -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        
+          <a class="post-news" href="{{ post.url | relative_url }}" >
+            {{ post.title | escape }}
+          </a>
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+        
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+    
+  {%- endif -%}
+  </div>
+
+</div>
 
 </div>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "14 November 2019 | 2nd meeting"
+title:  "14 November 2019"
 date:   2019-10-31 T10:20:00Z
 categories: event
 ---
