@@ -13,6 +13,3 @@ list_title: News
 </p>
 
 ---
-
-# Next event - TBC
-

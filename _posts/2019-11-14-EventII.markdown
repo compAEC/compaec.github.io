@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "14 November 2019 | 2nd meeting"
+date:   2019-10-31 T10:20:00Z
+categories: event
+---
+
+`Thursday, 14 November 2019`
+6:30 pm – 8:30 pm AEST
+
+`Swinburne University of Technology`
+AGSE Building - Room 109
+John Street
+Hawthorn, VIC 3122
+
+## [Kai Aurelien Zhu, Graduate of Architecture, BKK Architects](https://kaiaurelienzhu.com/about) <br> Intro to pyRevit
+
+The presentation will be a short introduction to the open source plugin for Revit: pyRevit. pyRevit is a rapid prototyping environment which provides a suite of existing tools for Revit and allows for the creation of new custom scripts interacting directly with the RevitAPI using the (iron)python programming language. The presentation will explain some of the pros and cons associated with using pyRevit instead of Dynamo or C# for automation as well as key learnings derived from practice and future developments of the project.
+
+*Kai is a Graduate of Architecture currently working at BKK Architects in Melbourne. Having graduated at the end of 2016 from Monash University, Kai has experience primarily working in infrastructure and rail with previous projects including the Westgate Tunnel as well as several level crossing removals throughout Melbourne.*
+
+## [Nathan Luke, Consultant, Geometry Gym](https://www.linkedin.com/in/nathan-luke) <br> Geometry Gym tools
+
+A brief summary of the Geometry Gym tools and some different cases where they can be used in-conjunction with visual programming techniques to provide efficiencies in structural analysis and design as well as BIM model creation and data manipulation. Following on he will provide an introduction and demonstration on McNeel (developer of Rhino3d) recent Rhino.Inside.Revit development which enables the use of Rhino and Grasshopper as a plug-in to Revit and how Geometry Gym are leveraging the advancement to perform more streamlined interoperability between the two programs.
+
+*Nathan completed a degree in Civil and Infrastructure Engineering at RMIT and has just over 8 years’ experience as a Consulting Structural Engineer. After working for Aurecon for 6 years he spent 2 years working with BuroHappold in the UK prior to returning to Melbourne late last year. Nathan currently works with Jon Mirtschin at Geometry Gym and helps with software development, training and support of the Geometry Gym plug-in tools as well as providing specialist consulting in regards to Parametric Design and BIM data workflows, optimization and rationalization of complex structures and automated fabrication and drawing production.*
+
+## [Dr Alessandro Liuti, Senior Research Manager, Australasia, Arup Foresight, Research + Innovation](https://www.linkedin.com/in/alessandro-liuti) <br> REWILD Our Planet
+
+‘REWILD Our Planet’ has been a world-first collaboration between Arup, PHORIA, Netflix, Google and WWF. Using video from the Netflix series narrated by Sir David Attenborough, the exhibition used augmented reality (AR) to take visitors deep into the world’s most fragile ecosystems. Arup leveraged on creative technology to heighten environmental awareness and deliver sustainable structural and acoustic engineering, as well as digital design to fabrication.
+
+*Alessandro has a PhD in Architectural Engineer and is currently Senior Research manager within Arup’s Foresight, Research and Innovation team. In Arup, he currently deals with Emerging Technology for Engineering; his interests focus on how to link computational design, digital fabrication, and innovative design to construction methods.*
+
+### Followed by:
+
+- Industry updates
+- One-on-one QA sessions
+- Pizzas, drinks and networking
