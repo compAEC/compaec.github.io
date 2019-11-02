@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "14 November 2019"
-date:   2019-10-31 T10:20:00Z
+date:   2019-11-01
 categories: event
 ---
 
