@@ -4,17 +4,38 @@ layout: default
 
 <style>
 
-  
   .row{
     display: table;
   margin-right: auto;
   margin-left: auto;
 
   }
+
+  .container-grid {
+  display: grid;
+  grid-template-columns: 35% 65%; /*columns widths*/
+  height: 40vh;
+}
+
+.col-1 {
+  background-color: white;
+  float: left;
+  text-align: left;
+}
+
+.col-2 {
+  background-color: white;
+  float: left;
+  text-align: left;
+  list-style: none; 
+    overflow-y: scroll;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;  /* IE 10+ */}
+
   /* Create two equal columns that floats next to each other */
   .column {
     float: left;
-    width: 340px;
+    width: 370px;
     text-align: left;
   }
   
@@ -39,21 +60,15 @@ layout: default
   .post-list-news {
     margin-left: 0;
     margin-right: 5px;
-    list-style: none; 
-    overflow-y: scroll;
-    scrollbar-width: none; /* Firefox */
-    -ms-overflow-style: none;  /* IE 10+ */
   }
 
-  .post-list-news::-webkit-scrollbar { /* WebKit */
-    width: 2px;
+  .col-2::-webkit-scrollbar { /* WebKit */
+    width: 1px;
     height: 0;
-    background-color: #F5F5F5;
-
 }
 
 ::-webkit-scrollbar-thumb {
-    background: rgb(155, 155, 155);
+    background: rgb(139, 139, 139);
 }
 
   .post-list > li {
@@ -71,11 +86,13 @@ layout: default
 <br>
 </div>
 
-<div class="row" >
-  <div class="column">
 
-      <h2>
-          <a href="https://compaec.github.io/meetings/" target="_top" style="background-color: white; color: orange;"> Events</a></h2>
+
+  <div class="container-grid">
+
+  <div class="col-1">
+
+      <h2><a href="https://compaec.github.io/meetings/" target="_top" style="background-color: white; color: orange;"> Events</a></h2>
 
     {%- if site.posts.size > 0 -%}
     <ul class="post-event">
@@ -95,7 +112,8 @@ layout: default
     </ul>
   {%- endif -%}
   </div>
-  <div class="column">
+
+  <div class="col-2">
     <h2>
       <a href="https://compaec.github.io/news/" target="_top" style="background-color: white; color: orange;"> News</a></h2>
     {%- if site.posts.size > 0 -%}
@@ -120,4 +138,6 @@ layout: default
   {%- endif -%}
   </div>
 
-</div>
+  </div>
+
+
