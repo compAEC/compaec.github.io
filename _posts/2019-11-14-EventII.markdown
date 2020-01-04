@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "14 November 2019"
-date:   2019-11-01
+date:   2019-11-14
 categories: event
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kz-J-ZtiWCw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 `Thursday, 14 November 2019`
 6:30 pm – 8:30 pm AEST
