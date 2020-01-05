@@ -20,6 +20,7 @@ layout: default
   .column {
   float: left;
   padding: 10px;
+  height: 500px;
   }
 
 .left {
@@ -28,6 +29,12 @@ layout: default
 
 .right {
   width: 75%;
+  overflow-y: scroll;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;  /* IE 10+ */
+}
+.right::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
 }
 
 /* Clear floats after the columns */
@@ -58,7 +65,6 @@ layout: default
 
 <div class="row">
   <div class="column left">
-
 
       <h2><a href="https://compaec.github.io/meetings/" target="_top" style="background-color: white; color: orange;"> Events</a></h2>
 
