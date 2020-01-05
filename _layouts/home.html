@@ -1,80 +1,48 @@
 ---
 layout: default
 ---
-
 <style>
-
-  .row{
-    display: table;
-  margin-right: auto;
-  margin-left: auto;
-
-  }
-
-  .container-grid {
-  display: grid;
-  grid-template-columns: 35% 65%; /*columns widths*/
-  height: 60vh;
+* {
+  box-sizing: border-box;
 }
 
-.col-1 {
-  background-color: white;
-  float: left;
-  text-align: left;
-}
-
-.col-2 {
-  background-color: white;
-  float: left;
-  text-align: left;
-  list-style: none; 
-    overflow-y: scroll;
-    scrollbar-width: none; /* Firefox */
-    -ms-overflow-style: none;  /* IE 10+ */}
-
-  /* Create two equal columns that floats next to each other */
-  .column {
-    float: left;
-    width: 370px;
-    text-align: left;
-  }
-  
-  /* Clear floats after the columns */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-  
-  .post-news { 
-    font-size:95%; 
-    margin-left: 0px;
-    margin-right: 0px;;
-  }
-  
-  .post-event { 
+.post-event { 
     list-style: none; 
     margin-left: 0px;
   }
 
-  .post-list-news {
+.post-list-news {
     margin-left: 0;
     margin-right: 5px;
+    list-style-type: none;
   }
 
-  .col-2::-webkit-scrollbar { /* WebKit */
-    width: 1px;
-    height: 0;
-}
-
-::-webkit-scrollbar-thumb {
-    background: rgb(139, 139, 139);
-}
-
-  .post-list > li {
-    margin-bottom: 30px; 
+  .column {
+  float: left;
+  padding: 10px;
   }
 
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+  @media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+}
+
+  }
   </style>
 
 <div class="home">
@@ -88,9 +56,9 @@ layout: default
 
 
 
-  <div class="container-grid">
+<div class="row">
+  <div class="column left">
 
-  <div class="col-1">
 
       <h2><a href="https://compaec.github.io/meetings/" target="_top" style="background-color: white; color: orange;"> Events</a></h2>
 
@@ -99,11 +67,11 @@ layout: default
       {%- for post in site.categories.event -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
+
+          <a href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </h3>
+
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
@@ -111,9 +79,11 @@ layout: default
       {%- endfor -%}
     </ul>
   {%- endif -%}
-  </div>
 
-  <div class="col-2">
+</div>
+
+  <div class="column right">
+
     <h2>
       <a href="https://compaec.github.io/news/" target="_top" style="background-color: white; color: orange;"> News</a></h2>
     {%- if site.posts.size > 0 -%}
@@ -123,7 +93,7 @@ layout: default
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         
-          <a class="post-news" href="{{ post.url | relative_url }}" >
+          <a href="{{ post.url | relative_url }}" >
             {{ post.title | escape }}
           </a>
           <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -136,8 +106,6 @@ layout: default
     </ul>
     
   {%- endif -%}
-  </div>
-
-  </div>
-
+</div>
+</div>
 
