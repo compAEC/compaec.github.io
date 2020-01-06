@@ -193,7 +193,6 @@ permalink: /joinus/
   .column {
   float: left;
   padding: 10px;
-  height: 500px;
   }
 
 .left {
