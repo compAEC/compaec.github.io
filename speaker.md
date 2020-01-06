@@ -1,12 +1,10 @@
 ---
 layout: page
 title: Join us
-permalink: /speaker/
+permalink: /joinus/
 ---
 
-Join the organizers or submit your presentation or ideas.
-
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/computationalaecmel@gmail.com" method="post">
+<!-- <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/computationalaecmel@gmail.com" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
@@ -17,11 +15,11 @@ Join the organizers or submit your presentation or ideas.
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Submit">
-</form>
+</form> -->
 
 <div class="row">
   <div class="column full" colspan="2">
-    <!-- Begin Mailchimp Signup Form -->
+<!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
@@ -31,7 +29,6 @@ Join the organizers or submit your presentation or ideas.
 <div id="mc_embed_signup">
 <form action="https://gmail.us20.list-manage.com/subscribe/post?u=a1ccb78085ccef86a40189a56&amp;id=fec3ce729f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -60,6 +57,7 @@ Join the organizers or submit your presentation or ideas.
 
 	</select>
 </div>
+
 <div class="mc-field-group input-group">
     <strong>Skills &amp; expertise </strong>
     <ul><li><input type="checkbox" value="4" name="group[5431][4]" id="mce-group[5431]-5431-0"><label for="mce-group[5431]-5431-0">Here to learn only</label></li>
@@ -84,6 +82,10 @@ Join the organizers or submit your presentation or ideas.
 <li><input type="checkbox" value="4096" name="group[5427][4096]" id="mce-group[5427]-5427-2"><label for="mce-group[5427]-5427-2">I'm interested in sponsoring future events</label></li>
 </ul>
 </div>
+<div class="mc-field-group">
+	<label for="mce-MMERGE3">Anything else to add? </label>
+	<input type="text" value="" name="MMERGE3" class="" id="mce-MMERGE3">
+</div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
@@ -93,9 +95,9 @@ Join the organizers or submit your presentation or ideas.
     </div>
 </form>
 </div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[4]='MMERGE4';ftypes[4]='dropdown';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[4]='MMERGE4';ftypes[4]='dropdown';fnames[3]='MMERGE3';ftypes[3]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
-</div>
+  </div>
 </div>
 
 <style>/* reset */
