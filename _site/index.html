@@ -32,63 +32,55 @@
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <style>
+* {
+  box-sizing: border-box;
+}
 
-  
-  .row{
-    display: table;
-  margin-right: auto;
-  margin-left: auto;
-
-  }
-  /* Create two equal columns that floats next to each other */
-  .column {
-    float: left;
-    width: 340px;
-    text-align: left;
-  }
-  
-  /* Clear floats after the columns */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-  
-  .post-news { 
-    font-size:90%; 
-    margin-left: 0px;
-    margin-right: 0px;;
-  }
-  
-  .post-event { 
+.post-event { 
     list-style: none; 
     margin-left: 0px;
   }
 
-  .post-list-news {
+.post-list-news {
     margin-left: 0;
     margin-right: 5px;
-    list-style: none; 
-    overflow-y: scroll;
-    scrollbar-width: none; /* Firefox */
-    -ms-overflow-style: none;  /* IE 10+ */
+    list-style-type: none;
   }
 
-  .post-list-news::-webkit-scrollbar { /* WebKit */
-    width: 2px;
-    height: 0;
-    background-color: #F5F5F5;
-
-}
-
-::-webkit-scrollbar-thumb {
-    background: rgb(155, 155, 155);
-}
-
-  .post-list > li {
-    margin-bottom: 30px; 
+  .column {
+  float: left;
+  padding: 10px;
+  height: 500px;
   }
 
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+  overflow-y: scroll;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;  /* IE 10+ */
+}
+.right::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+  @media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    height: auto;
+}
+
+  }
   </style>
 
 <div class="home"><p align="center">
@@ -102,64 +94,95 @@
 <br>
 </div>
 
-<div class="row" >
-  <div class="column">
 
-      <h2>
-          <a href="https://compaec.github.io/meetings/" target="_top" style="background-color: white; color: orange;"> Events</a></h2><ul class="post-event"><li><h3>
-          <a class="post-link" href="/event/2019/11/01/EventII.html">
+
+<div class="row">
+  <div class="column left">
+
+      <h2><a href="https://compaec.github.io/meetings/" target="_top" style="background-color: white; color: orange;"> Events</a></h2><ul class="post-event"><li><a href="/event/2019/11/14/EventII.html">
             14 November 2019
-          </a>
-        </h3></li><li><h3>
-          <a class="post-link" href="/event/2019/08/09/EventI.html">
+          </a></li><li><a href="/event/2019/08/09/EventI.html">
             29 August 2019
-          </a>
-        </h3></li></ul></div>
-  <div class="column">
+          </a></li></ul></div>
+
+  <div class="column right">
+
     <h2>
-      <a href="https://compaec.github.io/news/" target="_top" style="background-color: white; color: orange;"> News</a></h2><ul class = post-list-news><li><a class="post-news" href="/news/2019/11/03/introToCompDesign.html" >
+      <a href="https://compaec.github.io/news/" target="_top" style="background-color: white; color: orange;"> News</a></h2><ul class = post-list-news><li><a href="/news/2019/12/18/swarm.html" >
+            Thornton Tomasetti releases Swarm
+          </a>
+          <span class="post-meta">Dec 18, 2019</span></li><li><a href="/news/2019/11/03/introToCompDesign.html" >
             Introduction to Computational Design
           </a>
-          <span class="post-meta">Nov 3, 2019</span></li><li><a class="post-news" href="/news/2019/09/08/forgesurvey.html" >
+          <span class="post-meta">Nov 3, 2019</span></li><li><a href="/news/2019/10/21/rhinoinsidemasterclass.html" >
+            Rhino Inside masterclass documentation
+          </a>
+          <span class="post-meta">Oct 21, 2019</span></li><li><a href="/news/2019/09/19/buildingsmartevents.html" >
+            Calendar of AEC events in Australia
+          </a>
+          <span class="post-meta">Sep 19, 2019</span></li><li><a href="/news/2019/09/18/vueforgeviewer.html" >
+            A. Pickmans opensourced a Vue.js component for Forge Viewer
+          </a>
+          <span class="post-meta">Sep 18, 2019</span></li><li><a href="/news/2019/09/18/hyparfuncbuilder.html" >
+            Hypar Function Builder (VS Code extension)
+          </a>
+          <span class="post-meta">Sep 18, 2019</span></li><li><a href="/news/2019/09/18/dbeihackathonwinners.html" >
+            DBEI Hackathon winners
+          </a>
+          <span class="post-meta">Sep 18, 2019</span></li><li><a href="/news/2019/09/18/codesearchapidocs.html" >
+            apidocs.co added code search feature
+          </a>
+          <span class="post-meta">Sep 18, 2019</span></li><li><a href="/news/2019/09/18/andreagigoogemaps.html" >
+            Automatic Site Models from Google Maps
+          </a>
+          <span class="post-meta">Sep 18, 2019</span></li><li><a href="/news/2019/09/17/DynaSpace.html" >
+            Space planning in Dynamo with DynaSpace
+          </a>
+          <span class="post-meta">Sep 17, 2019</span></li><li><a href="/news/2019/09/08/forgesurvey.html" >
             Autodesk Revit/Forge API survey
           </a>
-          <span class="post-meta">Sep 8, 2019</span></li><li><a class="post-news" href="/news/2019/09/08/topologic.html" >
-            Topologic announced release of TopologicDynamo and TopologicNET v. 0.8.6.
+          <span class="post-meta">Sep 8, 2019</span></li><li><a href="/news/2019/09/08/topologic.html" >
+            Topologic releases TopologicDynamo and TopologicNET v. 0.8.6.
           </a>
-          <span class="post-meta">Sep 8, 2019</span></li><li><a class="post-news" href="/news/2019/08/23/unswhackathon.html" >
+          <span class="post-meta">Sep 8, 2019</span></li><li><a href="/news/2019/08/28/provingground.html" >
+            Proving Ground&#39;s new podcast episode
+          </a>
+          <span class="post-meta">Aug 28, 2019</span></li><li><a href="/news/2019/08/23/unswhackathon.html" >
             UNSW &amp; Design Futures Council announced AEC Hackathon
           </a>
-          <span class="post-meta">Aug 23, 2019</span></li><li><a class="post-news" href="/news/2019/08/19/dynamonewrelease.html" >
+          <span class="post-meta">Aug 23, 2019</span></li><li><a href="/news/2019/08/19/dynamonewrelease.html" >
             Dynamo Core 2.3 is released
           </a>
-          <span class="post-meta">Aug 19, 2019</span></li><li><a class="post-news" href="/news/2019/08/18/hmcladybug.html" >
+          <span class="post-meta">Aug 19, 2019</span></li><li><a href="/news/2019/08/18/hmcladybug.html" >
             Ladybug tools dashboard tutorial
           </a>
-          <span class="post-meta">Aug 18, 2019</span></li><li><a class="post-news" href="/news/2019/08/16/nxtblgevent.html" >
+          <span class="post-meta">Aug 18, 2019</span></li><li><a href="/news/2019/08/16/nxtblgevent.html" >
             AEC Magazine published recordings of NXT BLD 2019 conference
           </a>
-          <span class="post-meta">Aug 16, 2019</span></li><li><a class="post-news" href="/news/2019/06/21/giraffe.html" >
+          <span class="post-meta">Aug 16, 2019</span></li><li><a href="/news/2019/08/09/pyRevitnewHome.html" >
+            pyRevit&#39;s new home on the internet
+          </a>
+          <span class="post-meta">Aug 9, 2019</span></li><li><a href="/news/2019/06/21/giraffe.html" >
             Giraffe app is launched
           </a>
-          <span class="post-meta">Jun 21, 2019</span></li><li><a class="post-news" href="/news/2019/06/19/pmonkeyUTS.html" >
+          <span class="post-meta">Jun 21, 2019</span></li><li><a href="/news/2019/06/19/pmonkeyUTS.html" >
             ASCII chat roulette
           </a>
-          <span class="post-meta">Jun 19, 2019</span></li><li><a class="post-news" href="/news/2019/06/10/prismapp.html" >
+          <span class="post-meta">Jun 19, 2019</span></li><li><a href="/news/2019/06/10/prismapp.html" >
             Prism app is launched
           </a>
-          <span class="post-meta">Jun 10, 2019</span></li><li><a class="post-news" href="/news/2019/06/05/speckle3dviewer.html" >
+          <span class="post-meta">Jun 10, 2019</span></li><li><a href="/news/2019/06/05/speckle3dviewer.html" >
             Speckle 3d Viewer
           </a>
           <span class="post-meta">Jun 5, 2019</span></li></ul></div>
-
 </div>
+
 
       </div>
     </main><footer class="site-footer" role="banner" >
 
-  <div class="wrapper-footer" align="center">
 
-
+  <div align="center">
 
       <a href="https://www.twitter.com/CompAECMel"><img src="/images/Twitter_Logo_Blue.png" alt="logo" style="border:0px;margin:0px;float:center;height:50px;" /></a>
       
@@ -169,8 +192,7 @@
       
         <a href="/feed.xml"><img src="/images/rss-icon.png" alt="logo" style="border:0px;margin:10px;float:center;height:30px;"/></a>
       
-
-  </div>
+      </div>
 </footer>
 </body>
 
