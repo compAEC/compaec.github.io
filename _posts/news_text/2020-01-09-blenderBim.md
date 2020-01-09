@@ -15,7 +15,7 @@ It is relatively brand new in its ability to write IFC files, but Blender has be
 - Property sets.
 
 More info here:
-[https://forums.buildingsmart.org/t/presenting-blender-as-a-new-ifc-authoring-tool/1791/75](https://forums.buildingsmart.org/t/presenting-blender-as-a-new-ifc-authoring-tool/1791/75)
+[https://forums.buildingsmart.org/t/presenting-blender-as-a-new-ifc-authoring-tool/1791/75](https://forums.buildingsmart.org/t/presenting-blender-as-a-new-ifc-authoring-tool/1791)
 
 Check also this open-source arch-viz
 [blender-archipack.org](https://blender-archipack.org/)
