@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Digital twins - Bridging the physical and digital - Deloitte"
+title:  "Digital twins: Bridging the physical and digital. Deloitte"
 date:   2020-01-16 16:39:30 +1000
 categories: news
 ---
