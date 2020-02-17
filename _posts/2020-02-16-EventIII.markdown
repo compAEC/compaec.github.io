@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "03 March 2020"
+date:   2020-02-16
+categories: event
+---
+
+`Tuesday, 03 March 2020`
+6:00 pm – 7:30 pm AEST
+
+`Arup`
+1 Melbourne Quarter
+699 Collins Street
+Docklands, VIC 3008
+
+## John Legge-Wilkinson
+John Legge-Wilkinson is a Senior Structural Technician and Regional Parametric Leader for the Infrastructure team at Arup. John was previously CAD Leader for the Building Structures team in Melbourne for 20 years before joining the Bridge & Civil Structures team in 2016.
+
+John has been using BIM and digital tools since the early 1990's, and parametric tools for the past 15 years.
+John played a lead role in the successful implementation and use of these tools and processes in the Melbourne office and across the region.
+
+John will present some of his past and current projects highlighting the changes and the similarities between workflows and tools available.
+
+## Rhys Probyn
+Rhys is a Structural Engineer working in Arup's Building Structure group. He will talk about the current tools and the new emerging roles.
+
+His presentation will focus on interoperability between analysis and modelling software and how to leverage new open source cloud based solution to transfer data seamlessy and more efficiently.
+
+## Josh Finnin
+Josh is also Structural Engineer working in Arup's Building Structure group. His talk focuses on the future trends of computational design in the AEC industry.
+
+He will present some of the new tools that are currently being developed to collect, store and process all the data produced during the design phase of a project.
+
+### Followed by:
+
+- Industry updates
+- One-on-one QA sessions
+- Drinks and networking
