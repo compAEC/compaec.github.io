@@ -20,7 +20,8 @@ Dion is an architect and a software developer. He's currently working as Emergin
 
 Dion's recent open-source project is BlenderBIM. He will talk about "Open-source, open-data, and their role in the built environment".
 
-## Jon Mirtschin, Geometry Gym <br> OpenBIM
+## Jon Mirtschin, Geometry Gym <br> BIM: open vs closed
+
 Jon Mirtschin graduated with a Bachelor of Engineering/Science from the University of Melbourne, Australia. He worked as as structural engineer for 10 years before starting Geometry Gym in 2009. Geometry Gym develops BIM software tools specifically for Model Exchange using openBIM standards such as IFC. These are primarily in the form of plugins for applications such as Revit, Rhino, Grasshopper, Tekla and various Structural Analysis applications.
 
 ### Followed by:
