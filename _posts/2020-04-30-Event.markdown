@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "30 April 2020"
+date:   2020-04-19 16:39:30 +1000
+categories: event
+---
+
+`Thursday, 30 April 2020`
+6:30 pm – 8:30 pm AEST
+
+`Online`
+
+## Ehsan Iran-Nejad, Robert McNeel & Associates <br> Rhino Inside Revit & the role of documentation in an open-source project
+Ehsan is an architect "of actual buildings" and also a software developer. He's currently working at Robert McNeel & Associates on the open-source Rhino Inside Revit project.
+
+If you're a Revit user you've most likely heard of pyRevit. Ehsan is also the creator and maintainer of this open-source project.
+
+## Dion Moult, Lendlease <br> Open-source, open-data, and their role in the built environment
+Dion is an architect and a software developer. He's currently working as Emerging Digital Engineering Manager at Lendlease.
+
+Dion's recent open-source project is BlenderBIM. He will talk about "Open-source, open-data, and their role in the built environment".
+
+## Jon Mirtschin, Geometry Gym <br> OpenBIM
+Jon Mirtschin graduated with a Bachelor of Engineering/Science from the University of Melbourne, Australia. He worked as as structural engineer for 10 years before starting Geometry Gym in 2009. Geometry Gym develops BIM software tools specifically for Model Exchange using openBIM standards such as IFC. These are primarily in the form of plugins for applications such as Revit, Rhino, Grasshopper, Tekla and various Structural Analysis applications.
+
+### Followed by:
+
+- virtual drinks and networking
