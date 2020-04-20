@@ -5,6 +5,9 @@ permalink: /meetings/
 ---
 
 # 14 November 2019 | 2nd meeting
+[Read more...](../event/2020/02/16/EventIII.html)
+
+# 14 November 2019 | 2nd meeting
 [Read more...](../event/2019/11/14/EventII.html)
 
 # 29 August 2019 | 1st meeting
