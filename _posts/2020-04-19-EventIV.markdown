@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "30 April 2020"
+date:   2020-04-19
+categories: event
+---
+
+`Thursday, 30 April 2020`
+6:00 pm – 7:30 pm AEST
+
+`Swinburne University Online Classroom`
+
+## Open-Source Software in AEC
+Many open-source software have been around in the AEC industry for a while. But, for several reasons, open-source has not yet been fully embraced in this industry and therefore many benefits it can bring have been simply missed. With the new wave of architects and engineers becoming also proficient in developing software this can change for good.
+
+Join us online as we host three AEC experts, who have been involved in open-source software one way or another, shining more light on the potentials that open-source has in our industry.
+
+Meeting Link: will be emailed to registrants 48 hours prior to meeting kick-off
+
+*Speakers:*
+
+## Ehsan Iran-Nejad: Rhino Inside Revit & the role of documentation in an open-source project
+Ehsan is an architect "of actual buildings" and also a software developer. He's currently working at Robert McNeel & Associates on the open-source Rhino Inside Revit project.
+
+If you're a Revit user you've most likely heard of pyRevit. Ehsan is also the creator and maintainer of this open-source project.
+
+## Dion Moult: Open-source, open-data, and their role in the built environment
+Dion is an architect and a software developer. He's currently working as Emerging Digital Engineering Manager at Lendlease.
+
+Dion's recent open-source project is BlenderBIM. He will talk about "Open-source, open-data, and their role in the built environment".
+
+## Jon Mirtschin: BIM : open vs closed
+Jon Mirtschin graduated with a Bachelor of Engineering/Science from the University of Melbourne, Australia. He worked as as structural engineer for 10 years before starting Geometry Gym in 2009. Geometry Gym develops BIM software tools specifically for Model Exchange using openBIM standards such as IFC. These are primarily in the form of plugins for applications such as Revit, Rhino, Grasshopper, Tekla and various Structural Analysis applications.
