@@ -31,3 +31,9 @@ Dion's recent open-source project is BlenderBIM. He will talk about "Open-source
 
 ## Jon Mirtschin: BIM : open vs closed
 Jon Mirtschin graduated with a Bachelor of Engineering/Science from the University of Melbourne, Australia. He worked as as structural engineer for 10 years before starting Geometry Gym in 2009. Geometry Gym develops BIM software tools specifically for Model Exchange using openBIM standards such as IFC. These are primarily in the form of plugins for applications such as Revit, Rhino, Grasshopper, Tekla and various Structural Analysis applications.
+
+### Followed by:
+
+- virtual drinks and networking
+
+## Register here: [https://www.eventbrite.com.au/e/computational-aec-april-2020-tickets](https://www.eventbrite.com.au/e/computational-aec-april-2020-tickets-102662979736)
