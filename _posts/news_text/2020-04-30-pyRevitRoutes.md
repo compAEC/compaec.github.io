@@ -8,6 +8,7 @@ categories: news
 Control Revit from a web application
 
 From [pyRevit-Routes-HTTP-API](https://www.notion.so/pyRevit-Routes-HTTP-API-79ef6d4a77b04aca9be6f4e46ffa728e)
+
 Let's say we want to create a web application that would display a list of doors in a model. The web application would be split into two parts.
 
 - **Font-end**: the part that runs in the browser and acts as the user interface, and
