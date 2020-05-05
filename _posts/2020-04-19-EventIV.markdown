@@ -4,6 +4,7 @@ title:  "30 April 2020"
 date:   2020-04-19
 categories: event
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uiz8tKA6s0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 `Thursday, 30 April 2020`
 6:00 pm – 7:30 pm AEST
@@ -35,5 +36,3 @@ Jon Mirtschin graduated with a Bachelor of Engineering/Science from the Universi
 ### Followed by:
 
 - virtual drinks and networking
-
-## Register here: [https://www.eventbrite.com.au/e/computational-aec-april-2020-tickets](https://www.eventbrite.com.au/e/computational-aec-april-2020-tickets-102662979736)
