@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "25 June 2020"
+date:   2020-04-19
+categories: event
+---
+
+`Thursday, 25 June 2020`
+6:00 pm – 7:30 pm AEST
+
+`Swinburne University Online Classroom`
+
+`Meeting Link: will be emailed to registrants 48 hours prior to meeting kick-off`
+
+## XR (VR/AR/MR) in AEC
+
+*Speakers:*
+
+## Gwyllim Jahn, Fologram: Holographic Construction with Fologram - Immediate opportunities and use cases for mixed reality in AEC
+Gwyllim Jahn is the co-founder and creative director of Fologram, a Melbourne-based startup building mixed reality software solutions for architecture, engineering and construction. Fologram’s software overlays physical environments with precise, interactive digital models that can be used for rapid prototyping of mixed reality applications to solve design and construction challenges. Gwyllim will share how Fologram’s clients and partners have identified high value use cases and immediate opportunities for mixed reality to reduce construction time, cost and risk through several recently completed case study projects. These include work by All Brick to replace traditional 2D drawings with interactive, shared and in-situ holographic models describing all construction stages of the brickwork in the Royal Hobart Hospital, and the effective use of analogue tools and traditional steam-bending techniques to fabricate the complex double-curved structure of the Tallinn Architecture Biennial pavilion.
+Rhino users in the audience are encouraged to download and install the Fologram for Rhino plugin and the Fologram for Mobile app in order to participate in a brief tutorial at the conclusion of the presentation illustrating how to stream models from Rhino and Grasshopper to mobile devices.
+
+Get Fologram:
+[Fologram for Rhino](www.fologram.com/download)
+Fologram for Mobile - Search on the App Store or Google Play
+[Fologram for HoloLens](https://www.microsoft.com/en-us/p/fologram/9nn9sjwh9qc1)
+
+For more information, case study projects and examples see: 
+[www.fologram.com](www.fologram.com)
+[www.vimeo.com/fologram](www.vimeo.com/fologram)
+[www.instagram.com/fologm](www.instagram.com/fologm)
+
+
+## Johan Hanegraaf, Arkio: Collaborative spatial design
+Technologies like BIM enhancedour industriesability to collaborate however architects need training and discipline before they can harness tools like Revit during the earlydesign stages. Designers often fall back on exploring ideas usingtraditional sketches, scale models and screen-based 3D modeling tools that can be time consuming to create and difficult to communicate.Arkio is a collaborative VR/AR design tool that makes creating and validating spatial ideas more engaging for everyone. During this talk we will introduce and give a live demonstration of Arkio to show how it can be used to quickly sketch out various design proposalstogether on different devices. We will show how data from Excel, Rhino and Revit can be used in a virtual design session and howthe design outcomes can be loaded back into native Revit families and masses.
+
+With ten years experience in the Architecture field implementing and developing design tools for Mecanoo’s computational projects, Johan’s early exploration of immersive technology led him to join Arkio, a startup creating a unique collaborative VR/AR design tool. As an engineer and architect by education, he strongly believes that our computational tools should be moreintuitive and collaborative if we want them to enhance creativity and support a better built environment.
+
+## Michael Gardiner, Unsigned Studio: VR application on major engineering projects
+In this presentation, Michael will take us through case studies that demonstrate the use of virtual reality on major engineering projects. We will start with the client problem, and move onto the VR-based solution through an explanation of the decision making process and the reasoning behind. In addition to the technical solution, Michael will touch on commercial considerations when deploying VR across major projects, lessons learnt and a thought on future applications.
+
+Michael Gardiner is the Brisbane Studio Leader for Unsigned Studio, Aurecon’s internal creative visualisation and technology group. Michael has over 15 years’ experience delivering visualisation and managing global strategy, and specialises in facilitating the connections between visual technologies and the decision-making process.
+Michael works with a range of real-time software to explore visualisation as it relates to design, engagement, experience and operations. He is dedicated to evolving the role of visualisation into core design thinking by increasing its application across the entire project lifecycle. Combining these ideas with strategic global implementation of emerging technologies such as Virtual and Augmented Reality ensures that Aurecon is positioned to meet our client’s visual needs now and into the future.
+
+## Alex Coulombe, Agile Lens: 5 Ways XR Makes You a Better Architect
+In this session, Alex Coulombe of Agile Lens distills key lessons based on over tenyears of working with immersive technology. Case studies will be shown of projects at every phase of the design process where VR and/or AR became uniquely suited to solve a difficult problem. Whether you've been using turnkey XR solutions for years, or are still skeptical thatthere would ever be any reason to put on a headset, by the end of this talk you'll be inspired to dive intoutilizing these tools in entirely new ways
+
+Architect turned XR-chitect, Alex Coulombe is a designer, developer, and educator who has worked in VR/AR for over 10 years. After earning his B.Arch. from Syracuse University, Alex practiced at such firms as Rafael Viñoly Architectsand Zimmer Gunsul Frasca Architects, always advocating for the utilization of emerging technologies to communicate design intent. After developing at Fisher Dachs Associates the world’s first virtual reality system for evaluating theatre sightlines, he co-founded the NYC-based studio, Agile Lens. Projects have included The Shed, David Geffen Hall, The Statue of Liberty Museum, Rice University Music and Performing Arts Center, and the dome of the Ed Sullivan Theatre for The Late Show with Stephen Colbert. Two years of recent study in social VR live performance with the group Alive in Plasticland led to a scripted piece, "Loveseat," being selected for the 2019 Venice Film Festival. Alex designedthe virtual set, props, lighting, and even the theatre architecture in which the performances were viewed by audience members in Venice and around the world(via VR). Alex also co-created the award-winning Magic Leap ghost speed-dating experience, "Ghosted," sits on the advisory board for AIXR's Enterprise committee, has created several courses for Unreal Engine, and actively teaches Unity at Syracuse University. A rising thought leader in emerging tech, Alex speaks at conferences around the world. Follow him on Twitter and YouTube: [@ibrews](https://twitter.com/ibrews?lang=en).
+
+### Followed by:
+
+Virtual drinks and networking
+
+## Register here: [https://www.eventbrite.com.au/e/computational-aec-june-2020](https://www.eventbrite.com.au/e/computational-aec-june-2020-tickets-108515113626)
