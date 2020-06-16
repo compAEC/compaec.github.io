@@ -14,7 +14,7 @@ categories: event
 
 ## XR (VR/AR/MR) in AEC
 
-*Speakers:*
+`Speakers:`
 
 ## Gwyllim Jahn, Fologram: Holographic Construction with Fologram - Immediate opportunities and use cases for mixed reality in AEC
 Gwyllim Jahn is the co-founder and creative director of Fologram, a Melbourne-based startup building mixed reality software solutions for architecture, engineering and construction. Fologram’s software overlays physical environments with precise, interactive digital models that can be used for rapid prototyping of mixed reality applications to solve design and construction challenges. Gwyllim will share how Fologram’s clients and partners have identified high value use cases and immediate opportunities for mixed reality to reduce construction time, cost and risk through several recently completed case study projects. These include work by All Brick to replace traditional 2D drawings with interactive, shared and in-situ holographic models describing all construction stages of the brickwork in the Royal Hobart Hospital, and the effective use of analogue tools and traditional steam-bending techniques to fabricate the complex double-curved structure of the Tallinn Architecture Biennial pavilion.
