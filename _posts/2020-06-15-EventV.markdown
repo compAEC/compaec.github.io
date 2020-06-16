@@ -22,12 +22,16 @@ Rhino users in the audience are encouraged to download and install the Fologram 
 
 Get Fologram:
 [Fologram for Rhino](www.fologram.com/download)
+
 Fologram for Mobile - Search on the App Store or Google Play
+
 [Fologram for HoloLens](https://www.microsoft.com/en-us/p/fologram/9nn9sjwh9qc1)
 
 For more information, case study projects and examples see: 
 [www.fologram.com](www.fologram.com)
+
 [www.vimeo.com/fologram](www.vimeo.com/fologram)
+
 [www.instagram.com/fologm](www.instagram.com/fologm)
 
 
