@@ -25,15 +25,15 @@ Get Fologram:
 
 Fologram for Mobile - Search on the App Store or Google Play
 
-[Fologram for HoloLens](https://www.microsoft.com/en-us/p/fologram/9nn9sjwh9qc1)
+[Fologram for HoloLens](https://www.microsoft.com/en-us/p/fologram/9nn9sjwh9qc1){:target="_blank"}
 
 For more information, case study projects and examples see: 
 
-[fologram website](https:/fologram.com)
+[fologram website](https:/fologram.com){:target="_blank"}
 
-[vimeo.com/fologram](vimeo.com/fologram)
+[vimeo.com/fologram](vimeo.com/fologram){:target="_blank"}
 
-[instagram.com/fologm](instagram.com/fologm)
+[instagram.com/fologm](instagram.com/fologm){:target="_blank"}
 
 
 ## Johan Hanegraaf, Arkio: Collaborative spatial design
