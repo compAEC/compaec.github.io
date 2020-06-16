@@ -21,7 +21,7 @@ Gwyllim Jahn is the co-founder and creative director of Fologram, a Melbourne-ba
 Rhino users in the audience are encouraged to download and install the Fologram for Rhino plugin and the Fologram for Mobile app in order to participate in a brief tutorial at the conclusion of the presentation illustrating how to stream models from Rhino and Grasshopper to mobile devices.
 
 Get Fologram:
-[Fologram for Rhino](https:/www.fologram.com/download)
+<a href="https:/www.fologram.com/download" target="_blank">Fologram for Rhino</a>
 
 Fologram for Mobile - Search on the App Store or Google Play
 
