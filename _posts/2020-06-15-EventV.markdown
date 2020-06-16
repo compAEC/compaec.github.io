@@ -29,11 +29,11 @@ Fologram for Mobile - Search on the App Store or Google Play
 
 For more information, case study projects and examples see: 
 
-[fologram website](https:/www.fologram.com)
+[fologram website](https:/fologram.com)
 
-[vimeo.com/fologram](https:/www.vimeo.com/fologram)
+[vimeo.com/fologram](vimeo.com/fologram)
 
-[instagram.com/fologm](https:/www.instagram.com/fologm)
+[instagram.com/fologm](instagram.com/fologm)
 
 
 ## Johan Hanegraaf, Arkio: Collaborative spatial design
