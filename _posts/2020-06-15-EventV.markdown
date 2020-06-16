@@ -29,7 +29,7 @@ Fologram for Mobile - Search on the App Store or Google Play
 
 For more information, case study projects and examples see: 
 
-[fologram.com](https:/www.fologram.com)
+[fologram website](https:/www.fologram.com)
 
 [vimeo.com/fologram](https:/www.vimeo.com/fologram)
 
