@@ -5,6 +5,8 @@ date:   2020-04-19
 categories: event
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5pSdmY-9lVI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 `Thursday, 25 June 2020`
 6:00 pm – 7:30 pm AEST
 
