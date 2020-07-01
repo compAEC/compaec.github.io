@@ -25,11 +25,11 @@ A series of talks and interviews with prominent Architects:
 - PA Live 003 – Cyril Lancelin
 - PA Live 002 – Sanjay Puri
 - PA Live 001 – Refik Anadol
-- PA Talks 006 | Alireza Taghaboni
-- PA Talks 005 | Chris Precht
-- PA Talks 004 | Habibeh Madjdabadi
-- PA Talks 003 | Ferda Kolatan
-- PA Talks 002 | Mario Carpo
-- PA Talks 001 | Han Tumertekin
+- PA Talks 006 - Alireza Taghaboni
+- PA Talks 005 - Chris Precht
+- PA Talks 004 - Habibeh Madjdabadi
+- PA Talks 003 - Ferda Kolatan
+- PA Talks 002 - Mario Carpo
+- PA Talks 001 - Han Tumertekin
 
 [parametric-architecture.com/interviews](https://parametric-architecture.com/interviews/)
