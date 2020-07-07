@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MSD at HOME with PHILIPPE BLOCK, JANE BURRY and ROLAND SNOOKS"
+title:  "MSD at HOME with P. BLOCK, J. BURRY and R. SNOOKS"
 date:   2020-07-06 16:39:30 +1000
 categories: news
 ---
