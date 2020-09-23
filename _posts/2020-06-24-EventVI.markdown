@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "24 September 2020"
+date:   2020-09-20
+categories: event
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5pSdmY-9lVI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+`Thursday, 24 September 2020`
+6:00 pm – 7:30 pm AEST
+
+`Swinburne University Online Classroom`
+
+`Meeting Link: will be emailed to registrants 48 hours prior to meeting kick-off`
+
+## Robotic Fabrication in AEC
+
+`Speakers`
+
+## Dr. Dagmar Reinhardt, The University of Sydney (A. Professor, Chair of Architecture)
+### Robotics in architecture, Human-robot collaboration and Industry 4.0
+
+Dr Dagmar Reinhardt is a practising architect, researcher and educator. Reinhardt leads the robotics research group and the Master of Digital Architecture Research stream and at the School of Architecture, Design and Planning, The University of Sydney, and her design research studios are regularly awarded the prestigious National Student Award for Structural Innovation and for Digital Innovation by the AIA Institute of Architects, Sydney, NSW. Lecturing internationally, she was the Foundational Program Director of the Bachelor of Architecture and Environments (BAE, 2014-2018). As a practising architect, her built works, competitions and installations are research-based, widely published and have received numerous recognitions and awards for affordable and multi-generational residential works (www.reinhardtjung.de).
+
+Reinhardt’s research focuses on the intersection and integration of architecture, acoustics, structure, robotics, fabrication, material and constructions constraints into design and interdisciplinary collaborations.
+
+## Daniel Prohasky, Swinburne University (Lecturer in Architectural Engineering)
+### Curvecrete
+
+Daniel Prohasky is an architectural engineer and roboticist passionate about translating research towards industry adoption in Australia, particularly in the building design and construction industry. He is the founding lecturer in Architectural Engineering at Swinburne University and was Swinburne’s 2019 Design Faculty Innovation Fellow to further develop an innovative advanced manufacturing venture, Curvecrete. Curvecrete technology was proudly invented at the University of Melbourne.
+
+In this presentation, Daniel will address some of the key challenges around navigating the balance between architecture and engineering, academia and research commercialisation, and how we might disrupt the industry as we know it through computational design of virtual and physical systems aka advanced manufacturing.
+
+## Alexander Nikolas Walzer , RMIT University (Research Fellow)
+### Applying lean production methods to construction
+
+Alex is a Melbourne-based researcher exploring tech in AEC. Currently, he is part of the RMIT x IMCRC Design Robotics developing new workflows for Australian SMEs. Prior to this role, he was an assistant at ETH Zurich and the NCCR Digital Fabrication. Alex has consulted several companies and organizations on the possibilities of the ongoing digitization in AEC. On the weekend, he is a passionate Maker and Motorcyclist and loves a good IPA.
+
+This talk will highlight a few case studies, the importance of collaboration, economies of scale, as well as opportunities, challenges and incentives for new and existing firms to embrace digital fabrication.
+
+### Followed by:
+
+Virtual drinks and networking
+
+## Register here: [https://www.eventbrite.com.au/e/computational-aec-september-2020-tickets-119875052509)

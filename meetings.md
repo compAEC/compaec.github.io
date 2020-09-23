@@ -3,6 +3,9 @@ layout: page
 title: Past Meetings
 permalink: /meetings/
 ---
+# 25 June 2020 | 5th meeting
+[Read more...](../event/2020/02/16/EventV.html)
+
 # 30 April 2020 | 4th meeting
 [Read more...](../event/2020/02/16/EventIV.html)
 
