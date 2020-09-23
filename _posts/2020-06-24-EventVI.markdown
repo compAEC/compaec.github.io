@@ -5,8 +5,6 @@ date:   2020-09-20
 categories: event
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5pSdmY-9lVI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 `Thursday, 24 September 2020`
 6:00 pm – 7:30 pm AEST
 
@@ -43,4 +41,4 @@ This talk will highlight a few case studies, the importance of collaboration, ec
 
 Virtual drinks and networking
 
-## Register here: [https://www.eventbrite.com.au/e/computational-aec-september-2020-tickets-119875052509)
+## Register here: [https://www.eventbrite.com.au/e/computational-aec-september-2020](https://www.eventbrite.com.au/e/computational-aec-september-2020-tickets-119875052509)
