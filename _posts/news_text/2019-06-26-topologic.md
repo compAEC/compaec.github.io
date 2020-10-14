@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Topologic releases TopologicDynamo and TopologicNET v. 0.8.6."
+title:  "New Topologic releases"
 date:   2019-09-08 16:39:30 +1000
 categories: news
 ---

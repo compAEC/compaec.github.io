@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "UNSW & Design Futures Council announced AEC Hackathon"
+title:  "UNSW & Design Futures AEC Hackathon"
 date:   2019-08-23 16:39:30 +1000
 categories: news
 ---

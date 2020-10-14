@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A. Pickmans opensourced a Vue.js component for Forge Viewer"
+title:  "Open source Vue.js for Forge Viewer"
 date:   2019-09-18
 categories: news
 ---

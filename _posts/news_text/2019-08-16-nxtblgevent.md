@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AEC Magazine published recordings of NXT BLD 2019 conference"
+title:  "NXT BLD 2019 conference"
 date:   2019-08-16 16:39:30 +1000
 categories: news
 ---
