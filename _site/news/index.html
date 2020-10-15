@@ -31,10 +31,14 @@
   
 
   <body><style>
-  .page-link.fas{
-    color: #8189d7;
+  .fa{
+    margin-right: 5px;
+    color: #7a7979;
   }
 
+a.page-link:visited{
+  color: inherit;
+}
 </style>
 
 <header class="site-header" role="banner">
@@ -45,7 +49,8 @@
       
     
     <!--<a class="site-title" rel="author" href="/"><i class="fas fa-home"></i> </a> -->
-    <a class="fas fa-home" href="/" style="float: left;line-height: 60px; color: #8189d7;"> Home</a>   
+    
+    <a class="page-link" href="/" style="float: left;line-height: 60px;"><i class="fa fa-home fa-fw" aria-hidden="true"></i>Home</a>      
 
     <!---->
       <nav class="site-nav">
@@ -61,11 +66,13 @@
         
         
         <!-- <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/meetings/">Past Meetings</a><a class="page-link" href="/news/">News</a><a class="page-link" href="/joinus/">Join us</a></div> -->
-        <div class="trigger">       
-          <a class="page-link fas fa-users" href="/about"> About</a>
-          <a class="page-link fas fa-chalkboard-teacher" href="/meetings"> Past Meetings</a>
-          <a class="page-link fas fa-rss-square" href="/news"> News</a>
-          <a class="page-link fas fa-hand-point-right" href="/joinus"> Join us</a>
+        <div class="trigger"> 
+          <a class="page-link" href="/about"><i class="fa fa-users fa-fw" aria-hidden="true"></i>About</a>      
+          <a class="page-link" href="/meetings"><i class="fa fa-chalkboard-teacher fa-fw" aria-hidden="true"></i>Past Meetings</a>    
+          <a class="page-link" href="/news"><i class="fa fa-rss-square" aria-hidden="true"></i>News</a>    
+          <a class="page-link" href="/joinus"><i class="fa fa-hand-point-right fa-fw" aria-hidden="true"></i>Join us!</a>    
+
+
         </div>
       </nav>
     <!---->
