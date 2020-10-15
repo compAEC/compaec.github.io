@@ -33,26 +33,39 @@
   
 
   <body><style>
-  .fa{
-    margin-right: 5px;
-    color: #7a7979;
-  }
+  
+.trigger a.page-link{
+  color: #585858;
+}  
 
-a.page-link:visited{
-  color: inherit;
+.fa{
+  margin-right: 5px;
 }
+
+/* .trigger a.page-link:hover{
+  color: #c0c0c0;;
+  text-decoration: none;
+} */
+
+#home-btn{
+  color: #7a7979;
+  float: left;
+  line-height: 60px
+}
+
+/* #home-btn:hover{
+  color: #c0c0c0;;
+  text-decoration: none;
+} */
 </style>
 
 <header class="site-header" role="banner">
 
   <div class="wrapper">
 
-    
-      
-    
     <!--<a class="site-title" rel="author" href="/"><i class="fas fa-home"></i> </a> -->
     
-    <a class="page-link" href="/" style="float: left;line-height: 60px;"><i class="fa fa-home fa-fw" aria-hidden="true"></i>Home</a>      
+    <a class="page-link" href="/" id="home-btn"><i class="fa fa-home fa-fw" aria-hidden="true"></i>Home</a>      
 
     <!---->
       <nav class="site-nav">
@@ -73,8 +86,6 @@ a.page-link:visited{
           <a class="page-link" href="/meetings"><i class="fa fa-chalkboard-teacher fa-fw" aria-hidden="true"></i>Past Meetings</a>    
           <a class="page-link" href="/news"><i class="fa fa-rss-square" aria-hidden="true"></i>News</a>    
           <a class="page-link" href="/joinus"><i class="fa fa-hand-point-right fa-fw" aria-hidden="true"></i>Join us!</a>    
-
-
         </div>
       </nav>
     <!---->
