@@ -29,18 +29,24 @@ layout: default
 justify-content: right;
 }
 
-.scroller{
+.scroller-right{
   overflow-y:auto;
   scrollbar-width: none; /* Firefox */
   -ms-overflow-style: none;  /* IE 10+ */
   height: 20vw;
 }
 
+.scroller-left{
+  overflow-y:auto;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;  /* IE 10+ */
+  height: 20vw;
+}
 
 .full {
   width: 100%;
 }
-.scroller::-webkit-scrollbar { 
+.scroller-right::-webkit-scrollbar { 
     display: none;  /* Safari and Chrome */
 }
 
@@ -55,7 +61,14 @@ justify-content: right;
   .column {
     width: 100%;
     height: auto;
-}
+  }
+  .scroller-left{
+    height: 100px;
+    overflow-y: auto;
+  }
+  .scroller-right{
+    height: 100px;
+  }
 
   }
   </style>
@@ -72,8 +85,11 @@ justify-content: right;
 
 <div class="row">
   <div class="column left">
-    <h2><a href="https://compaec.github.io/meetings/" target="_top" style="background-color: white; color: orange;"> Events</a></h2>
+    <h2>
+      <a href="https://compaec.github.io/meetings/" target="_top" style="background-color: white; color: orange; font-weight: 600;"><i class="far fa-calendar-check" style="color: #e87d0d"></i> Events</a>
+    </h2>
     {%- if site.posts.size > 0 -%}
+    <div class="scroller-left">
     <ul class="post-event">
       {%- for post in site.categories.event -%}
       <li>
@@ -90,16 +106,16 @@ justify-content: right;
       {%- endfor -%}
     </ul>
   {%- endif -%}
-
+</div>
 </div>
 
   <div class="column right">
     <h2>
-      <a href="https://compaec.github.io/news/" target="_top" style="background-color: white; color: orange;"> Latest News</a>
+      <a href="https://compaec.github.io/news/" target="_top" style="background-color: white; color: orange; font-weight: 600;"><i class="far fa-newspaper" style="color: #e87d0d"></i> Latest News</a>
     </h2>
     {%- if site.posts.size > 0 -%}
     
-    <div class="scroller">
+    <div class="scroller-right">
     <ul class = post-list-news>
       {%- for post in site.categories.news -%}
       <li>
